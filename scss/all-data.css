@@ -1,0 +1,28 @@
+.page-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.header .title {
+  font-size: 24px;
+  text-decoration: underline;
+}
+
+.table.all-data {
+  border: 1px solid;
+  border-collapse: collapse;
+  width: 50%;
+  text-align: center;
+}
+.table.all-data thead {
+  border: 1px solid;
+}
+.table.all-data tbody {
+  border: 1px solid;
+}/*# sourceMappingURL=all-data.css.map */

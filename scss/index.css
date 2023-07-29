@@ -1,0 +1,23 @@
+.form-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.form-wrapper .input.text.data {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  gap: 5px;
+}
+.form-wrapper .input.text.data .input {
+  display: flex;
+  flex-direction: column;
+}
+.form-wrapper .input.button.data {
+  display: flex;
+  gap: 5px;
+}
+.form-wrapper .input.button.data input {
+  min-width: 50px;
+  max-width: 100px;
+}/*# sourceMappingURL=index.css.map */

@@ -1,0 +1,15 @@
+/* .form-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.form-wrapper .input.text.data {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+
+.form-wrapper .submit input {
+    cursor: pointer;
+} */
